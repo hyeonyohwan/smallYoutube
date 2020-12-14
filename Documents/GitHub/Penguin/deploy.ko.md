@@ -6,7 +6,7 @@
 
 - [Firebase](https://github.com/google/web-starter-kit/blob/master/docs/deploy-firebase.md)
 - [Google App Engine](https://github.com/google/web-starter-kit/blob/master/docs/deploy-appengine.md)
-- [GitHub Pages]([Google App Engine](https://github.com/google/web-starter-kit/blob/master/docs/deploy-appengine.md))
+- [GitHub Pages](https://github.com/google/web-starter-kit/blob/master/docs/deploy-appengine.md)
 - [Amazon AWS S3](https://github.com/yeoman/generator-webapp/blob/master/docs/recipes/aws-s3-deployment.md)
 - [Heroku](https://github.com/yeoman/generator-webapp/blob/master/docs/recipes/node-heroku.md)
 
