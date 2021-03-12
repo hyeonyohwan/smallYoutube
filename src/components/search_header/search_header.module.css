@@ -2,7 +2,7 @@
   display: flex;
   height: 4rem;
   padding: 0.8em 1em;
-  background: black;
+  background: rgb(24, 24, 24);
   color: white;
 }
 
@@ -16,10 +16,15 @@
   flex-basis: 100%;
   font-size: 1.2rem;
   outline: 0;
+  background-color: rgb(24, 24, 24);
+}
+
+.input:hover {
+  border: 1px solid rgb(0, 89, 255);
 }
 
 .button {
-  background-color: darkgrey;
+  background-color: rgb(50, 50, 50);
   outline: 0;
 }
 

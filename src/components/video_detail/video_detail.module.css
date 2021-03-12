@@ -2,6 +2,15 @@
   padding: 0.2em;
 }
 
+.title {
+  color: white;
+}
+
+.channelTitle {
+  color: rgb(170, 166, 166);
+}
+
 .description {
   white-space: pre-wrap;
+  color: white;
 }
