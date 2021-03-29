@@ -1,6 +1,6 @@
 {
-  "homepage": "https://hyeonyohwan.github.io/youtube",
-  "name": "template",
+  "homepage": "https://hyeonyohwan.github.io/smallYoutube",
+  "name": "youtube",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
