@@ -16,7 +16,7 @@ function App({ youtube }) {
     (query) => {
       setSelectedVideo(null);
       youtube
-        .search(query) //
+        .search(query) // 검색한 동영상
         .then((videos) => setVideos(videos));
     },
     [youtube]
@@ -24,7 +24,7 @@ function App({ youtube }) {
 
   useEffect(() => {
     youtube
-      .mostPopular() //
+      .mostPopular() // 인기있는 동영상
       .then((videos) => setVideos(videos));
   }, [youtube]);
   return (
